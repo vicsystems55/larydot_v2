@@ -29,6 +29,8 @@
 	<link rel="stylesheet" href="{{ asset('css/base.css') }}">
 	<link rel="stylesheet" href="{{ asset('css/style.css') }}">
 	<link rel="stylesheet" href="{{ asset('css/responsive.css') }}">
+
+    @yield('header-style')
 </head>
 
 	<body class="home">

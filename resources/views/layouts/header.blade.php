@@ -1,4 +1,10 @@
-		<!-- Header Main Area -->
+		@section('header-style')
+
+        <style>
+
+        </style>
+        @endsection
+        <!-- Header Main Area -->
 		<header class="site-header pbmit-header-style-1" id="masthead">
 			<div class="pbmit-sticky-header pbmit-header-sticky-yes pbmit-bg-color-white pbmit-sticky-header-mobile-yes"></div>
 			<div class="pbmit-header-overlay">
@@ -99,151 +105,151 @@
 				</div>
 			</div>
 			<div class="pbmit-slider-area pbmit-slider-one">
-    <div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="true" data-columns="1" data-margin="0" data-effect="fade">
-        <div class="swiper-wrapper">
+                <div class="swiper-slider" data-autoplay="true" data-loop="true" data-dots="false" data-arrows="true" data-columns="1" data-margin="0" data-effect="fade">
+                    <div class="swiper-wrapper">
 
-            <!-- Slide 1: Job Seekers -->
-            <div class="swiper-slide">
-                <div class="pbmit-bg-overlay"></div>
-                <div class="pbmit-slider-item">
-                    <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-01.jpg);"></div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 col-lg-4"></div>
-                            <div class="col-md-12 col-lg-8">
-                                <div class="pbmit-slider-content">
-                                    <div class="pbmit-slider-title-wrap">
-                                        <h2 class="pbmit-slider-title transform-top transform-delay-1">Your Career</h2>
-                                    </div>
-                                    <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Starts With Confidence</span></h4>
-                                    <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
-                                        Join a recruitment agency that understands your potential.<br>
-                                        Larydot connects skilled professionals to rewarding roles across the UK.
-                                    </div>
-                                    <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
-                                        <div class="transform-bottom transform-delay-5">
-                                            <a href="contact-us.html" class="pbmit-btn white">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Free Consultation</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                        <div class="transform-right-1 transform-delay-4">
-                                            <a href="about-us.html" class="pbmit-btn pbmit-btn-style-text ms-3">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Discover More</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
+                        <!-- Slide 1: Job Seekers -->
+                        <div class="swiper-slide">
+                            <div class="pbmit-bg-overlay"></div>
+                            <div class="pbmit-slider-item">
+                                <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-01.jpg);"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12 col-lg-4"></div>
+                                        <div class="col-md-12 col-lg-8">
+                                            <div class="pbmit-slider-content">
+                                                <div class="pbmit-slider-title-wrap">
+                                                    <h2 class="pbmit-slider-title transform-top transform-delay-1">Career</h2>
+                                                </div>
+                                                <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Starts With Confidence</span></h4>
+                                                <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
+                                                    Join a recruitment agency that understands your potential.<br>
+                                                    Larydot connects skilled professionals to rewarding roles across the UK.
+                                                </div>
+                                                <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
+                                                    <div class="transform-bottom transform-delay-5">
+                                                        <a href="contact-us.html" class="pbmit-btn white">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Free Consultation</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="transform-right-1 transform-delay-4">
+                                                        <a href="about-us.html" class="pbmit-btn pbmit-btn-style-text ms-3">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Discover More</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Slide 2: Employers -->
-            <div class="swiper-slide">
-                <div class="pbmit-slider-item">
-                    <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-02.jpg);"></div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 col-lg-4"></div>
-                            <div class="col-md-12 col-lg-8">
-                                <div class="pbmit-slider-content">
-                                    <div class="pbmit-slider-title-wrap">
-                                        <h2 class="pbmit-slider-title transform-top transform-delay-1">Hire Smarter</h2>
-                                    </div>
-                                    <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Build Your Ideal Team</span></h4>
-                                    <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
-                                        We specialize in placing qualified staff in healthcare, ICT, and construction.<br>
-                                        Let Larydot streamline your staffing challenges with ease and expertise.
-                                    </div>
-                                    <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
-                                        <div class="transform-bottom transform-delay-5">
-                                            <a href="contact-us.html" class="pbmit-btn white">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Free Consultation</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                        <div class="transform-right-1 transform-delay-4">
-                                            <a href="about-us.html" class="pbmit-btn pbmit-btn-style-text ms-3">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Discover More</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
+                        <!-- Slide 2: Employers -->
+                        <div class="swiper-slide">
+                            <div class="pbmit-slider-item">
+                                <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-02.jpg);"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12 col-lg-4"></div>
+                                        <div class="col-md-12 col-lg-8">
+                                            <div class="pbmit-slider-content">
+                                                <div class="pbmit-slider-title-wrap">
+                                                    <h2 class="pbmit-slider-title transform-top transform-delay-1">Hire</h2>
+                                                </div>
+                                                <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Build Your Ideal Team</span></h4>
+                                                <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
+                                                    We specialize in placing qualified staff in healthcare, ICT, and construction.<br>
+                                                    Let Larydot streamline your staffing challenges with ease and expertise.
+                                                </div>
+                                                <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
+                                                    <div class="transform-bottom transform-delay-5">
+                                                        <a href="contact-us.html" class="pbmit-btn white">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Free Consultation</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="transform-right-1 transform-delay-4">
+                                                        <a href="about-us.html" class="pbmit-btn pbmit-btn-style-text ms-3">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Discover More</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Slide 3: Why Larydot -->
-            <div class="swiper-slide">
-                <div class="pbmit-slider-item">
-                    <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-03.jpg);"></div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12 col-lg-4"></div>
-                            <div class="col-md-12 col-lg-8">
-                                <div class="pbmit-slider-content">
-                                    <div class="pbmit-slider-title-wrap">
-                                        <h2 class="pbmit-slider-title transform-top transform-delay-1">Trusted By Many</h2>
-                                    </div>
-                                    <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Across Healthcare & Tech</span></h4>
-                                    <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
-                                        With years of experience and a focus on excellence,<br>
-                                        Larydot Recruitment delivers professional staffing solutions with integrity.
-                                    </div>
-                                    <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
-                                        <div class="transform-bottom transform-delay-5">
-                                            <a href="contact-us.html" class="pbmit-btn white">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Get In Touch</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                        <div class="transform-right-1 transform-delay-4">
-                                            <a href="services.html" class="pbmit-btn pbmit-btn-style-text ms-3">
-                                                <span class="pbmit-button-content-wrapper">
-                                                    <span class="pbmit-button-text">Our Services</span>
-                                                    <span class="pbmit-button-icon">
-                                                        <!-- SVG Icon -->
-                                                    </span>
-                                                </span>
-                                            </a>
+                        <!-- Slide 3: Why Larydot -->
+                        <div class="swiper-slide">
+                            <div class="pbmit-slider-item">
+                                <div class="pbmit-slider-bg" style="background-image: url(images/banner-slider-img/slider01-slide-03.jpg);"></div>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-12 col-lg-4"></div>
+                                        <div class="col-md-12 col-lg-8">
+                                            <div class="pbmit-slider-content">
+                                                <div class="pbmit-slider-title-wrap">
+                                                    <h2 class="pbmit-slider-title transform-top transform-delay-1">Trusted</h2>
+                                                </div>
+                                                <h4 class="pbmit-slider-small-title transform-right transform-delay-2"><span>Across Healthcare & Tech</span></h4>
+                                                <div class="pbmit-slider-desc transform-right-1 transform-delay-3">
+                                                    With years of experience and a focus on excellence,<br>
+                                                    Larydot Recruitment delivers professional staffing solutions with integrity.
+                                                </div>
+                                                <div class="pbmit-button d-flex align-items-center justify-content-lg-end justify-content-center mt-xl-5 mt-4">
+                                                    <div class="transform-bottom transform-delay-5">
+                                                        <a href="contact-us.html" class="pbmit-btn white">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Get In Touch</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                    <div class="transform-right-1 transform-delay-4">
+                                                        <a href="services.html" class="pbmit-btn pbmit-btn-style-text ms-3">
+                                                            <span class="pbmit-button-content-wrapper">
+                                                                <span class="pbmit-button-text">Our Services</span>
+                                                                <span class="pbmit-button-icon">
+                                                                    <!-- SVG Icon -->
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
 
-        </div> <!-- .swiper-wrapper -->
-    </div> <!-- .swiper-slider -->
-</div> <!-- .pbmit-slider-area -->
+                    </div> <!-- .swiper-wrapper -->
+                </div> <!-- .swiper-slider -->
+            </div> <!-- .pbmit-slider-area -->
 
 		</header>
 		<!-- Header Main Area End Here -->
