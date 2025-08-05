@@ -50,18 +50,23 @@
 												</div>
 											</div>
 											<div class="pbmit-ihbox-contents">
-												<h2 class="pbmit-element-title">Ch</h2>
-												<div class="pbmit-heading-desc">701 Sondanella, 18th floor, <br>Gunsberg, Switzerland</div>
-												<div class="pbmit-element-subtitle">
-													<ul>
-														<li><span>Email :</span><a href="https://xhyre-demo.pbminfotech.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a4c5c0c9cdcae4d4c6c9cdcac2cbd0c1c7cc8ac7cbc9">[email&#160;protected]</a></li>
-														<li><span>Phone :</span>+0 123 456 7891</li>
-													</ul>
-												</div>
-												<div class="pbmit-ihbox-btn">
-													
-												</div>
-											</div>
+    <h2 class="pbmit-element-title">UK</h2>
+    <div class="pbmit-heading-desc">
+        5 Harbour House, Coldharbour Lane<br>
+        Rainham, Essex RM13 9YB<br>
+        United Kingdom
+    </div>
+    <div class="pbmit-element-subtitle">
+        <ul>
+            <li><span>Email :</span> <a href="mailto:info@larydotrecruitment.co.uk">info@larydotrecruitment.co.uk</a></li>
+            <li><span>Phone :</span> +44 7424 598599</li>
+        </ul>
+    </div>
+    <div class="pbmit-ihbox-btn">
+        <a href="/contact-us/" class="pbmit-btn">Get in Touch</a>
+    </div>
+</div>
+
 										</div>
 									</div>
 								</div>
@@ -123,7 +128,7 @@
 			<!-- Contact Form End -->
 
 			<!-- Client Start -->
-			<section class="section-xxl">
+			<section class="section-xxl d-none">
 				<div class="container">
 					<div class="d-flex justify-content-center">
 						<div class="pbminfotech-ele-fid-style-4">
@@ -247,8 +252,18 @@
 			<section class="section-lgb">
 				<div class="container">
 					<div class="iframe-area">
-						<iframe src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="London Eye, London, United Kingdom" aria-label="London Eye, London, United Kingdom"></iframe>
-					</div>
+                        <iframe
+                            src="https://maps.google.com/maps?q=5%20Harbour%20House%2C%20Coldharbour%20Lane%2C%20Rainham%2C%20Essex%20RM13%209YB%2C%20United%20Kingdom&t=m&z=14&output=embed&iwhloc=near"
+                            width="100%"
+                            height="450"
+                            style="border:0;"
+                            allowfullscreen=""
+                            loading="lazy"
+                            title="Larydot Recruitment, Rainham, Essex"
+                            aria-label="Larydot Recruitment, Rainham, Essex">
+                        </iframe>
+
+                    </div>
 				</div>
 			</section>
 			<!-- Client End -->
