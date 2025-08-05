@@ -52,7 +52,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Manufacturing & Production</a></h3>
+									<h3><a href="/job-vacancies">Manufacturing & Production</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									2000 USD / Month
@@ -78,7 +78,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Engineering & Construction</a></h3>
+									<h3><a href="/job-vacancies">Engineering & Construction</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									2250 USD / Month
@@ -104,7 +104,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Administrative Coordinator</a></h3>
+									<h3><a href="/job-vacancies">Administrative Coordinator</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									1500 USD / Month
@@ -130,7 +130,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Logistics & Distribution</a></h3>
+									<h3><a href="/job-vacancies">Logistics & Distribution</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									1750 USD / Month
@@ -156,7 +156,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Healthcare & Finance</a></h3>
+									<h3><a href="/job-vacancies">Healthcare & Finance</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									1700 USD / Month
@@ -182,7 +182,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Business & Management</a></h3>
+									<h3><a href="/job-vacancies">Business & Management</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									2500 USD / Month
@@ -208,7 +208,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Front End Developer</a></h3>
+									<h3><a href="/job-vacancies">Front End Developer</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									2300 USD / Month
@@ -234,7 +234,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Marketing Director</a></h3>
+									<h3><a href="/job-vacancies">Marketing Director</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									3200 USD / Month
@@ -260,7 +260,7 @@
 									</div>
 								</div>
 								<div class="pbmit-jobs-postion">
-									<h3><a href="/job-vacancies">">Sales Manager</a></h3>
+									<h3><a href="/job-vacancies">Sales Manager</a></h3>
 								</div>
 								<div class="pbmit-jobs-salary">
 									1900 USD / Month
