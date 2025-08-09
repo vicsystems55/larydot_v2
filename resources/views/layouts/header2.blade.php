@@ -10,7 +10,7 @@
 									<div class="site-branding">
 										<h1 class="site-title">
 											<a href="/">
-															<img class="logo-img" src="images/logoviector.png" alt="Larydot Recruitment">
+															<img class="logo-img" src="/images/logoviector.png" alt="Larydot Recruitment">
 												<img class="pbmit-sticky-logo" src="images/logoviector.png" alt="Larydot Recruitment">
 											</a>
 										</h1>

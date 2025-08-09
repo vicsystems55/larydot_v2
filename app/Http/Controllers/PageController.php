@@ -4,14 +4,20 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+use App\Helpers\BlogHelper;
+
 
 class PageController extends Controller
 {
     public function index()
     {
+        $posts = collect(BlogHelper::getPosts())->take(2);
+
+
         return view('index', [
             'title' => 'Home | Larydot Recruitment',
             'meta_description' => 'Connecting job seekers with trusted UK employers in IT, healthcare, construction, and more.',
+            'posts' => $posts
         ]);
     }
 
@@ -46,5 +52,24 @@ class PageController extends Controller
             'meta_description' => 'Browse the latest job vacancies in healthcare, IT, cleaning, construction, and more across the UK.',
         ]);
     }
-}
 
+    public function post($slug)
+    {
+        // Logic to retrieve and display a specific post by slug
+        $post = BlogHelper::getPostBySlug($slug);
+
+        // return $post->excerpt;
+
+
+
+        if (!$post) {
+            abort(404, 'Post not found');
+        }
+
+        return view('blog-details', [
+            'title' => $post->title . ' | Larydot Recruitment',
+            'meta_description' => $post->excerpt,
+            'post' => $post
+        ]);
+    }
+}

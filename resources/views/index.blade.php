@@ -152,7 +152,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <a class="pbmit-link" href="service-details.html"></a>
+                                        <a class="pbmit-link" href="/services"></a>
                                     </div>
                                     <div class="pbmit-content-wrap">
                                         <div class="pbmit-content-box">
@@ -163,7 +163,7 @@
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-service-title">
-                                                <a href="service-details.html">Staffing Solution</a>
+                                                <a href="/services">Staffing Solution</a>
                                             </h3>
                                         </div>
                                         <div class="pbmit-icon-wrap">
@@ -181,7 +181,7 @@
                                                     <p>Innovative techniques to find the best candidates for your open
                                                         positions.</p>
                                                 </div>
-                                                <a class="pbmit-service-btn" href="service-details.html"
+                                                <a class="pbmit-service-btn" href="/services"
                                                     title="Staffing Solution">
                                                     <span class="pbmit-button-icon-wrapper">
                                                         <span class="pbmit-button-icon">
@@ -206,7 +206,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <a class="pbmit-link" href="service-details.html"></a>
+                                        <a class="pbmit-link" href="/services"></a>
                                     </div>
                                     <div class="pbmit-content-wrap">
                                         <div class="pbmit-content-box">
@@ -217,7 +217,7 @@
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-service-title">
-                                                <a href="service-details.html">Assessment</a>
+                                                <a href="/services">Assessment</a>
                                             </h3>
                                         </div>
                                         <div class="pbmit-icon-wrap">
@@ -236,7 +236,7 @@
                                                     <p>Innovative techniques to find the best candidates for your open
                                                         positions.</p>
                                                 </div>
-                                                <a class="pbmit-service-btn" href="service-details.html"
+                                                <a class="pbmit-service-btn" href="/services"
                                                     title="Assessment">
                                                     <span class="pbmit-button-icon-wrapper">
                                                         <span class="pbmit-button-icon">
@@ -261,7 +261,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <a class="pbmit-link" href="service-details.html"></a>
+                                        <a class="pbmit-link" href="/services"></a>
                                     </div>
                                     <div class="pbmit-content-wrap">
                                         <div class="pbmit-content-box">
@@ -272,7 +272,7 @@
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-service-title">
-                                                <a href="service-details.html">Job Analysis</a>
+                                                <a href="/services">Job Analysis</a>
                                             </h3>
                                         </div>
                                         <div class="pbmit-icon-wrap">
@@ -289,7 +289,7 @@
                                                     <p>Innovative techniques to find the best candidates for your open
                                                         positions.</p>
                                                 </div>
-                                                <a class="pbmit-service-btn" href="service-details.html"
+                                                <a class="pbmit-service-btn" href="/services"
                                                     title="Job Analysis">
                                                     <span class="pbmit-button-icon-wrapper">
                                                         <span class="pbmit-button-icon">
@@ -314,7 +314,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <a class="pbmit-link" href="service-details.html"></a>
+                                        <a class="pbmit-link" href="/services"></a>
                                     </div>
                                     <div class="pbmit-content-wrap">
                                         <div class="pbmit-content-box">
@@ -325,7 +325,7 @@
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-service-title">
-                                                <a href="service-details.html">Reference Checks</a>
+                                                <a href="/services">Reference Checks</a>
                                             </h3>
                                         </div>
                                         <div class="pbmit-icon-wrap">
@@ -348,7 +348,7 @@
                                                     <p>Innovative techniques to find the best candidates for your open
                                                         positions.</p>
                                                 </div>
-                                                <a class="pbmit-service-btn" href="service-details.html"
+                                                <a class="pbmit-service-btn" href="/services"
                                                     title="Reference Checks">
                                                     <span class="pbmit-button-icon-wrapper">
                                                         <span class="pbmit-button-icon">
@@ -373,7 +373,7 @@
                                                     alt="">
                                             </div>
                                         </div>
-                                        <a class="pbmit-link" href="service-details.html"></a>
+                                        <a class="pbmit-link" href="/services"></a>
                                     </div>
                                     <div class="pbmit-content-wrap">
                                         <div class="pbmit-content-box">
@@ -384,7 +384,7 @@
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-service-title">
-                                                <a href="service-details.html">Onboarding Assistance</a>
+                                                <a href="/services">Onboarding Assistance</a>
                                             </h3>
                                         </div>
                                         <div class="pbmit-icon-wrap">
@@ -416,7 +416,7 @@
                                                     <p>Innovative techniques to find the best candidates for your open
                                                         positions.</p>
                                                 </div>
-                                                <a class="pbmit-service-btn" href="service-details.html"
+                                                <a class="pbmit-service-btn" href="/services"
                                                     title="Onboarding Assistance">
                                                     <span class="pbmit-button-icon-wrapper">
                                                         <span class="pbmit-button-icon">
@@ -1699,296 +1699,88 @@
         </section>
         <!-- Client Start -->
 
-        <!-- Blog start -->
-        <section class="section-xxl d-none">
-            <div class="container">
-                <div class="pbmit-heading-subheading text-center animation-style2">
-                    <h2 class="pbmit-subtitle"> Latest Blogs </h2>
-                    <h4 class="pbmit-title">Our Latest <span class="pbmit-global-color">Articles & Resources</span></h4>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 col-xl-6">
-                        <div class="swiper-slider pe-xl-4" data-autoplay="false" data-loop="true" data-dots="false"
-                            data-arrows="false" data-columns="1" data-margin="30" data-effect="slide">
-                            <div class="swiper-wrapper">
-                                <!-- Slide1 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-01.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Leadership</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">Guide to HR adviser and Clients
-                                                        lessening</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                <!-- Slide2 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-02.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Franchising</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">Design Hacks that Will Blow Your
-                                                        Mind</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                <!-- Slide3 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-03.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Entrepreneurs</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">HR magazine ‘Most Influential
-                                                        Thinker’ Award</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                <!-- Slide4 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-04.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Consultation</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">Are today's staff less prepared for
-                                                        work?</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                <!-- Slide5 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-05.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Business</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">The power of whole-person
-                                                        development</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                                <!-- Slide6 -->
-                                <article class="pbmit-blog-style-1 swiper-slide">
-                                    <div class="post-item">
-                                        <div class="pbminfotech-box-content">
-                                            <div class="pbmit-featured-container">
-                                                <div class="pbmit-featured-img-wrapper">
-                                                    <div class="pbmit-featured-wrapper">
-                                                        <img src="images/homepage-1/blog/blog-img-06.jpg"
-                                                            class="img-fluid" alt="">
-                                                    </div>
-                                                </div>
-                                                <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                            </div>
-                                            <div class="pbmit-content-wrapper">
-                                                <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                    <div class="pbmit-meta-category">
-                                                        <a href="blog-classic.html" rel="category tag">Adviser</a>
-                                                    </div>
-                                                </div>
-                                                <h3 class="pbmit-post-title">
-                                                    <a href="blog-single-detail.html">HR Tech Spending to Hold Steady in
-                                                        2025</a>
-                                                </h3>
-                                                <div class="pbminfotech-box-desc">
-                                                    HR blogs serve as a valuable resource to enhance your HR skills and
-                                                    knowledge by offering practical tips,&hellip;
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-12 col-xl-6 pbmit-column-one ps-xl-4 mt-xl-0 mt-5">
-                        <article class="pbmit-blog-style-2">
-                            <div class="post-item">
-                                <div class="pbminfotech-box-content">
-                                    <div class="pbminfotech-content-inner">
+<!-- Blog start -->
+<section class="section-xxl">
+    <div class="container">
+        <div class="pbmit-heading-subheading text-center animation-style2">
+            <h2 class="pbmit-subtitle">Latest Blogs</h2>
+            <h4 class="pbmit-title">Our Latest <span class="pbmit-global-color">Articles & Resources</span></h4>
+        </div>
+        <div class="row">
+            <!-- Left Column - Swiper Slider -->
+            <div class="col-md-12 col-xl-6">
+                <div class="swiper-slider pe-xl-4" data-autoplay="false" data-loop="true" data-dots="false"
+                    data-arrows="false" data-columns="1" data-margin="30" data-effect="slide">
+                    <div class="swiper-wrapper">
+                        @foreach($posts as $post)
+                            <article class="pbmit-blog-style-1 swiper-slide">
+                                <div class="post-item">
+                                    <div class="pbminfotech-box-content">
                                         <div class="pbmit-featured-container">
                                             <div class="pbmit-featured-img-wrapper">
                                                 <div class="pbmit-featured-wrapper">
-                                                    <img src="images/homepage-1/blog/blog-01.jpg" class="img-fluid"
-                                                        alt="">
+                                                    <img src="{{ asset($post['image']) }}" class="img-fluid" alt="{{ $post['title'] }}">
                                                 </div>
                                             </div>
-                                            <a class="pbmit-link" href="blog-single-detail.html"></a>
+                                            <a class="pbmit-link" href="{{ url('blog/' . $post['slug']) }}"></a>
                                         </div>
                                         <div class="pbmit-content-wrapper">
                                             <div class="pbmit-meta-category-wrapper pbmit-meta-line">
                                                 <div class="pbmit-meta-category">
-                                                    <a href="blog-classic.html" rel="category tag">Consultation</a>
+                                                    <a href="{{ url('blog') }}">Blog</a>
                                                 </div>
                                             </div>
                                             <h3 class="pbmit-post-title">
-                                                <a href="blog-single-detail.html">Why should business payroll
-                                                    outsourcing?</a>
+                                                <a href="{{ url('post/' . $post['slug']) }}">{{ $post['title'] }}</a>
                                             </h3>
+                                            <div class="pbminfotech-box-desc">
+                                                {{ Str::limit($post['excerpt'], 120) }}
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </article>
-                        <article class="pbmit-blog-style-2">
-                            <div class="post-item">
-                                <div class="pbminfotech-box-content">
-                                    <div class="pbminfotech-content-inner">
-                                        <div class="pbmit-featured-container">
-                                            <div class="pbmit-featured-img-wrapper">
-                                                <div class="pbmit-featured-wrapper">
-                                                    <img src="images/homepage-1/blog/blog-02.jpg" class="img-fluid"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                            <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                        </div>
-                                        <div class="pbmit-content-wrapper">
-                                            <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                <div class="pbmit-meta-category">
-                                                    <a href="blog-classic.html" rel="category tag">Business</a>
-                                                </div>
-                                            </div>
-                                            <h3 class="pbmit-post-title">
-                                                <a href="blog-single-detail.html">Demystified Strategies for Effective
-                                                    Campaigns</a>
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                        <article class="pbmit-blog-style-2">
-                            <div class="post-item">
-                                <div class="pbminfotech-box-content">
-                                    <div class="pbminfotech-content-inner">
-                                        <div class="pbmit-featured-container">
-                                            <div class="pbmit-featured-img-wrapper">
-                                                <div class="pbmit-featured-wrapper">
-                                                    <img src="images/homepage-1/blog/blog-03.jpg" class="img-fluid"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                            <a class="pbmit-link" href="blog-single-detail.html"></a>
-                                        </div>
-                                        <div class="pbmit-content-wrapper">
-                                            <div class="pbmit-meta-category-wrapper pbmit-meta-line">
-                                                <div class="pbmit-meta-category">
-                                                    <a href="blog-classic.html" rel="category tag">Adviser</a>
-                                                </div>
-                                            </div>
-                                            <h3 class="pbmit-post-title">
-                                                <a href="blog-single-detail.html">Retaining good employees & motivated</a>
-                                            </h3>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
+                            </article>
+                        @endforeach
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- Blog End -->
+
+            <!-- Right Column - Static List from Same Posts -->
+            <div class="col-md-12 col-xl-6 pbmit-column-one ps-xl-4 mt-xl-0 mt-5">
+                @foreach($posts as $post)
+                    <article class="pbmit-blog-style-2">
+                        <div class="post-item">
+                            <div class="pbminfotech-box-content">
+                                <div class="pbminfotech-content-inner">
+                                    <div class="pbmit-featured-container">
+                                        <div class="pbmit-featured-img-wrapper">
+                                            <div class="pbmit-featured-wrapper">
+                                                <img src="{{ asset($post['image']) }}" class="img-fluid" alt="{{ $post['title'] }}">
+                                            </div>
+                                        </div>
+                                        <a class="pbmit-link" href="{{ url('post/' . $post['slug']) }}"></a>
+                                    </div>
+                                    <div class="pbmit-content-wrapper">
+                                        <div class="pbmit-meta-category-wrapper pbmit-meta-line">
+                                            <div class="pbmit-meta-category">
+                                                <a href="{{ url('blog') }}">Blog</a>
+                                            </div>
+                                        </div>
+                                        <h3 class="pbmit-post-title">
+                                            <a href="{{ url('post/' . $post['slug']) }}">{{ $post['title'] }}</a>
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </article>
+                @endforeach
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog End -->
+
 
     </div>
     <!-- page content End -->
