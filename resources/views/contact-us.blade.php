@@ -62,6 +62,7 @@
                                                                 href="mailto:info@larydotrecruitment.uk">info@larydotrecruitment.uk</a>
                                                         </li>
                                                         <li><span>Phone :</span> +44 7424 598599</li>
+                                                        <li><span>Phone :</span> +44 7404 192135</li>
                                                     </ul>
                                                 </div>
                                                 <div class="pbmit-ihbox-btn">
