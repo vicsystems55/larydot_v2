@@ -59,7 +59,7 @@
                                                 <div class="pbmit-element-subtitle">
                                                     <ul>
                                                         <li><span>Email :</span> <a
-                                                                href="mailto:info@larydotrecruitment.co.uk">info@larydotrecruitment.co.uk</a>
+                                                                href="mailto:info@larydotrecruitment.uk">info@larydotrecruitment.uk</a>
                                                         </li>
                                                         <li><span>Phone :</span> +44 7424 598599</li>
                                                     </ul>
