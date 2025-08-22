@@ -57,9 +57,9 @@
 								<div class="pbmit-right-box d-flex align-items-center">
 									<div class="pbmit-button-box">
 										<div class="pbmit-header-button">
-											<a href="tel:+0(123)456-789">
-												<span class="pbmit-header-button-text-1">+0(123)456-789</span>
-											</a>
+										<a href="tel:+447424598599">
+                                                <span class="pbmit-header-button-text-1">+44 7424 598599</span>
+                                            </a>
 										</div>
 									</div>
 									<div class="pbmit-header-search-btn">
@@ -69,7 +69,7 @@
 										</a>
 									</div>
 									<div class="pbmit-button-box-second">
-										<a href="contact-us.html" class="pbmit-btn">
+										<a href="/contact-us" class="pbmit-btn">
 											<span class="pbmit-button-content-wrapper">
 												<span class="pbmit-button-text">Book Consult</span>
 												<span class="pbmit-button-icon">
