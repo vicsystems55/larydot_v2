@@ -54,7 +54,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">01</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">IT</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">IT</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">IT & Digital Staffing</a></h3>
 							<div class="pbmit-service-description">
@@ -91,7 +91,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">02</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">Cleaning</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">Cleaning</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">Domestic Cleaning Services</a></h3>
 							<div class="pbmit-service-description">
@@ -128,7 +128,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">03</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">Logistics</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">Logistics</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">Warehouse & Maintenance</a></h3>
 							<div class="pbmit-service-description">
@@ -165,7 +165,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">04</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">Healthcare</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">Healthcare</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">Healthcare Recruitment</a></h3>
 							<div class="pbmit-service-description">
@@ -202,7 +202,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">05</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">Construction</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">Construction</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">Construction Talent Supply</a></h3>
 							<div class="pbmit-service-description">
@@ -239,7 +239,7 @@
 						<div class="pbmit-content-box">
 							<div class="pbmit-cat-number-wrap">
 								<div class="pbminfotech-box-number">06</div>
-								<div class="pbmit-serv-cat"><a href="services.html" rel="tag">Support</a></div>
+								<div class="pbmit-serv-cat"><a href="/services" rel="tag">Support</a></div>
 							</div>
 							<h3 class="pbmit-service-title"><a href="/services">Candidate Welfare & Support</a></h3>
 							<div class="pbmit-service-description">

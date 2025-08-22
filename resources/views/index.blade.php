@@ -45,7 +45,7 @@
                             </ul>
                             <div class="d-md-flex align-items-center mt-5">
                                 <div>
-                                    <a href="contact-us.html" class="pbmit-btn">
+                                    <a href="/contact-us" class="pbmit-btn">
                                         <span class="pbmit-button-content-wrapper">
                                             <span class="pbmit-button-text">Get Consult</span>
                                             <span class="pbmit-button-icon">
@@ -67,7 +67,7 @@
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="about-us.html" class="pbmit-btn pbmit-btn-style-text ms-3">
+                                    <a href="/about-us" class="pbmit-btn pbmit-btn-style-text ms-3">
                                         <span class="pbmit-button-content-wrapper">
                                             <span class="pbmit-button-text">Discover More</span>
                                             <span class="pbmit-button-icon">
