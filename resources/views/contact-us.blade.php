@@ -82,8 +82,15 @@
 								</div> --}}
                         </div>
                         <div class="col-md-12 col-xl-6">
+                            session message
+                            @if (session('success'))
+                                <div class="alert alert-success">
+                                    {{ session('success') }}
+                                </div>
+                            @endif
                             <form class="contact-form" method="post" id="contact-form"
-                                action="https://xhyre-demo.pbminfotech.com/html-demo/send-dummy.php">
+                                action="/contact-form-submit">
+                                @csrf
                                 <div class="row">
                                     <div class="col-md-6">
                                         <input type="text" class="form-control" placeholder="Your Name *" name="name"
