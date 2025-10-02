@@ -37,6 +37,8 @@ class ContactFormRecieptMail extends Mailable
      */
     public function content(): Content
     {
+        // add data to view
+        view()->share('data', $this->data);
         return new Content(
             view: 'mails.contact_form_receipt_mail',
         );

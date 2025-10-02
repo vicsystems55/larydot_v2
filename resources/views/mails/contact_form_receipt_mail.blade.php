@@ -63,14 +63,14 @@
 		</div>
 		<div class="email-body">
 			<h2>Thank you for contacting us!</h2>
-			<p>Dear {{ $name ?? 'Valued User' }},</p>
+			<p>Dear {{ $data['name'] ?? 'Valued User' }},</p>
 			<p>We have received your message and our team will get back to you as soon as possible.</p>
 			<p><strong>Your Submission Details:</strong></p>
 			<ul style="padding-left: 1.2em;">
-				<li><strong>Name:</strong> {{ $name ?? '' }}</li>
-				<li><strong>Email:</strong> {{ $email ?? '' }}</li>
-				<li><strong>Subject:</strong> {{ $subject ?? '' }}</li>
-				<li><strong>Message:</strong> {{ $user_message ?? '' }}</li>
+				<li><strong>Name:</strong> {{ $data['name'] ?? '' }}</li>
+				<li><strong>Email:</strong> {{ $data['email'] ?? '' }}</li>
+				<li><strong>Subject:</strong> {{ $data['subject'] ?? '' }}</li>
+				<li><strong>Message:</strong> {{ $data['message'] ?? '' }}</li>
 			</ul>
 			<p>If you have any urgent queries, feel free to reply to this email.</p>
 		</div>
