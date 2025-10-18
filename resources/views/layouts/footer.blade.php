@@ -76,7 +76,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="pbmit-footer-copyright-text-area">
-                            &copy; {{ date('Y') }} <a href="{{ url('/') }}">Your Company Name</a>. All rights reserved. Developed by <a href="https://vicsystemstech.com" target="_blank">VICSYSTEMS TECHNOLOGIES LTD</a>.
+                            &copy; {{ date('Y') }} <a href="{{ url('/') }}">Your Company Name</a>. All rights reserved. Developed by <a href="https://vicsystems.us" target="_blank">VICSYSTEMS TECHNOLOGIES LTD</a>.
                         </div>
                     </div>
                 </div>
